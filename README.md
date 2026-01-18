@@ -1,8 +1,6 @@
 # simpleProductLister
 
 Screenshot
-##![product](https://github.com/user-attachments/assets/0886ae31-6dde-4117-b912-31f5cc5df911)
-##![productdetail](https://github.com/user-attachments/assets/cf5ac399-91c5-474b-b450-73f67c1a8ce5)
 <img src="https://github.com/user-attachments/assets/0886ae31-6dde-4117-b912-31f5cc5df911" width="300" />
 <img src="https://github.com/user-attachments/assets/cf5ac399-91c5-474b-b450-73f67c1a8ce5" width="300" />
 
